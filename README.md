@@ -1,2 +1,2 @@
 # OOPCalisanlarUygulamasi
-OOPCalisanlarUygulamasi
+Calisanlar Program with OOP
