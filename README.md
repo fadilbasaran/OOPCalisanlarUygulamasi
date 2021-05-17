@@ -1,3 +1,3 @@
 # OOPCalisanlarUygulamasi
-Calisanlar Program with OOP
+Calisanlar Program with OOP.
 Used extendes
